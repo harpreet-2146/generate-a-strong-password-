@@ -5,6 +5,8 @@ its a smiple password generator where you can copy the password and it gets save
 all you have to do is click on "generate password"
 
 💡 Step-by-Step Logic Breakdown
+
+
 1️⃣ User Interface (UI)
 There's an input box where the password will appear.
 
